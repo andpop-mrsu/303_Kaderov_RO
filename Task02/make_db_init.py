@@ -4,7 +4,7 @@ cursorObj = conn.cursor()
 cursorObj.execute("""CREATE TABLE movies (
                         id INTEGER PRIMARY KEY,
                         title VARCHAR(255) NOT NULL,
-                        year INTEGER NOT NULL,
+                        year VARCHAR(255) NOT NULL,
                         genres VARCHAR(255) NOT NULL)""")
 
 cursorObj.execute("""CREATE TABLE ratings (
@@ -12,14 +12,14 @@ cursorObj.execute("""CREATE TABLE ratings (
                         user_id INTEGER NOT NULL,
                         movie_id INTEGER NOT NULL,
                         rating INTEGER,
-                        timestamp)""")
+                        timestamp INTEGER NOT NULL)""")
 
 cursorObj.execute("""CREATE TABLE tags (
                         id INTEGER PRIMARY KEY,
                         user_id INTEGER NOT NULL,
                         movie_id INTEGER NOT NULL,
                         tag VARCHAR(255) NOT NULL,
-                        timestamp)""")
+                        timestamp INTEGER NOT NULL)""")
 
 cursorObj.execute("""CREATE TABLE users (
                         id INTEGER PRIMARY KEY,
