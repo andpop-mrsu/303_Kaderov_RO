@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4d132c9-5e44-400a-83a1-2860197412f4" name="Changes" comment="Task02">
+    <list default="true" id="e4d132c9-5e44-400a-83a1-2860197412f4" name="Changes" comment="Task03">
+      <change afterPath="$PROJECT_DIR$/Task04/db_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task04/movies_rating.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task04/task4.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +49,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/kaderovro/PycharmProjects/303_Kaderov_RO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
@@ -58,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664018291980</updated>
-      <workItem from="1671128931706" duration="113000" />
+      <workItem from="1671128931706" duration="586000" />
     </task>
     <task id="LOCAL-00001" summary="Task02">
       <created>1664022599915</created>
@@ -88,8 +95,32 @@
       <option name="project" value="LOCAL" />
       <updated>1664027098065</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task03">
+      <created>1671129159442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671129159442</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task03">
+      <created>1671129269216</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671129269216</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task03">
+      <created>1671129276583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671129276583</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -104,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task02" />
+    <MESSAGE value="Task03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task03" />
   </component>
 </project>
