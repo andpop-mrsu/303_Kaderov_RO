@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4d132c9-5e44-400a-83a1-2860197412f4" name="Changes" comment="Task03">
-      <change afterPath="$PROJECT_DIR$/Task04/db_init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task04/movies_rating.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task04/task4.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e4d132c9-5e44-400a-83a1-2860197412f4" name="Changes" comment="Task04">
+      <change afterPath="$PROJECT_DIR$/Task05/data_add.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task05/db_init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task05/db_schema.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task05/test.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664018291980</updated>
-      <workItem from="1671128931706" duration="586000" />
+      <workItem from="1671128931706" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="Task02">
       <created>1664022599915</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671129276583</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task04">
+      <created>1671129630596</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671129630596</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task02" />
     <MESSAGE value="Task03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task03" />
+    <MESSAGE value="Task04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task04" />
   </component>
 </project>
