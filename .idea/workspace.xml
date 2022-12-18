@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4d132c9-5e44-400a-83a1-2860197412f4" name="Changes" comment="Task04" />
+    <list default="true" id="e4d132c9-5e44-400a-83a1-2860197412f4" name="Changes" comment="Task06">
+      <change afterPath="$PROJECT_DIR$/Task07/barbershop.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task07/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task07/task7_cli.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671129630596</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task06">
+      <created>1671382776033</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671382776033</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +153,7 @@
     <MESSAGE value="Task02" />
     <MESSAGE value="Task03" />
     <MESSAGE value="Task04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task04" />
+    <MESSAGE value="Task06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task06" />
   </component>
 </project>
